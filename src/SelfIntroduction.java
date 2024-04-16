@@ -15,8 +15,7 @@ public class SelfIntroduction {
 		Thread.sleep(4000);
 		driver.manage().window().maximize();
 		
-		// Comment
-	 
+		// Add comment
 	}
 
 }
